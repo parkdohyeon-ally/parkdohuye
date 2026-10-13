@@ -2,6 +2,14 @@
 
 첨부 연구개발계획서 **RS-2026-25526544**를 바탕으로 작성한 13쪽 보고서와 그림·표입니다. 계획서의 명시 사항, 설명을 위한 설계 재구성, 확인이 필요한 내용을 구분했습니다.
 
+## 한 장 요약
+
+**[A4 가로 1쪽 PDF](overview_1page_ko.pdf?raw=true)** · [고해상도 PNG](overview_1page_ko.png?raw=true) · [편집용 SVG](overview_1page_ko.svg?raw=true) · [단일 파일 HTML](overview_1page_ko.html?raw=true)
+
+기관별 역할과 데이터·제어 흐름, 디지털트윈, 접근·보안 체계를 한 장에 배치했습니다. PDF는 실제 1쪽이며 PNG는 3200 × 2240 해상도입니다.
+
+![기관별 정보흐름과 플랫폼 구조 한 장 요약](overview_1page_ko.png)
+
 ## 다운로드
 
 - **[전체 파일 ZIP](rd_platform_analysis.zip?raw=true)**
