@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1060" viewBox="0 0 1600 1060" role="img" aria-label="01  기관별 기술 정보흐름">
+<defs><marker id="a0" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#2563a6"/></marker><marker id="a1" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#087e8b"/></marker><marker id="a2" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#b95b23"/></marker><marker id="a3" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#7554a3"/></marker><marker id="a4" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#607186"/></marker></defs>
+<rect width="1600" height="100%" fill="#ffffff"/>
+<style>text {font-family:"Noto Sans CJK KR",sans-serif;} .node-title{font-weight:700;} </style>
+<text x="54" y="55" font-size="32" fill="#142d4e" text-anchor="start" font-weight="700"><tspan x="54" dy="0">01  기관별 기술 정보흐름</tspan></text>
+<text x="54" y="93" font-size="17" fill="#607186" text-anchor="start" font-weight="400"><tspan x="54" dy="0">실선: 계획서에 명시된 흐름  ·  점선: 기관별 기능을 연결한 설계 재구성  ·  F번호: 정보교환 표와 연결</tspan></text>
+<rect x="50" y="145" width="330" height="185" rx="14" fill="#f1f6fc" stroke="#2563a6" stroke-width="2"/>
+<rect x="50" y="160" width="5" height="155" rx="2" fill="#2563a6"/>
+<text x="72" y="181" font-size="23" fill="#2563a6" text-anchor="start" font-weight="700"><tspan x="72" dy="0">한국전자기술연구원 · KETI</tspan></text>
+<text x="72" y="217" font-size="21" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="72" dy="0">총괄 아키텍처·소재 DB</tspan><tspan x="72" dy="30.45">Material Studio / DFT</tspan><tspan x="72" dy="30.45">성능·보안·통합 검증</tspan></text>
+<rect x="590" y="145" width="430" height="185" rx="14" fill="#eef8f7" stroke="#087e8b" stroke-width="2"/>
+<rect x="590" y="160" width="5" height="155" rx="2" fill="#087e8b"/>
+<text x="612" y="181" font-size="23" fill="#087e8b" text-anchor="start" font-weight="700"><tspan x="612" dy="0">인실리코</tspan></text>
+<text x="612" y="217" font-size="21" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="612" dy="0">통합 DB / REST API</tspan><tspan x="612" dy="30.45">물성 예측 모델 / MLOps</tspan><tspan x="612" dy="30.45">소재 표현 변환·접근 이력</tspan></text>
+<rect x="1220" y="145" width="330" height="185" rx="14" fill="#f6f2fb" stroke="#7554a3" stroke-width="2"/>
+<rect x="1220" y="160" width="5" height="155" rx="2" fill="#7554a3"/>
+<text x="1242" y="181" font-size="23" fill="#7554a3" text-anchor="start" font-weight="700"><tspan x="1242" dy="0">성균관대학교</tspan></text>
+<text x="1242" y="217" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="1242" dy="0">다음 실험 조건·전략 결정</tspan><tspan x="1242" dy="29.0">능동학습 / Workflow</tspan><tspan x="1242" dy="29.0">3차년도 Multi-agent</tspan></text>
+<rect x="50" y="605" width="400" height="225" rx="14" fill="#f1f6fc" stroke="#2563a6" stroke-width="2"/>
+<rect x="50" y="620" width="5" height="195" rx="2" fill="#2563a6"/>
+<text x="72" y="641" font-size="23" fill="#2563a6" text-anchor="start" font-weight="700"><tspan x="72" dy="0">세부 1·2·3 실험실</tspan></text>
+<text x="72" y="677" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="72" dy="0">피엔에이치테크 · OLED Premix</tspan><tspan x="72" dy="29.0">동진쎄미켐 · TFE 유기소재</tspan><tspan x="72" dy="29.0">이엠테크 · 식각 소재·공정</tspan><tspan x="72" dy="29.0">장비·로봇·센서 / 기업 로컬</tspan></text>
+<rect x="640" y="605" width="380" height="225" rx="14" fill="#fff7ef" stroke="#b95b23" stroke-width="2"/>
+<rect x="640" y="620" width="5" height="195" rx="2" fill="#b95b23"/>
+<text x="662" y="641" font-size="23" fill="#b95b23" text-anchor="start" font-weight="700"><tspan x="662" dy="0">한양대학교</tspan></text>
+<text x="662" y="677" font-size="21" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="662" dy="0">ROS2 / 장비 Node</tspan><tspan x="662" dy="30.45">실험 실행·자원 스케줄링</tspan><tspan x="662" dy="30.45">재시도·상태 전이</tspan><tspan x="662" dy="30.45">데이터·이벤트 Hub</tspan></text>
+<rect x="1210" y="605" width="340" height="225" rx="14" fill="#f1f6fc" stroke="#2563a6" stroke-width="2"/>
+<rect x="1210" y="620" width="5" height="195" rx="2" fill="#2563a6"/>
+<text x="1232" y="641" font-size="23" fill="#2563a6" text-anchor="start" font-weight="700"><tspan x="1232" dy="0">이즈파크</tspan></text>
+<text x="1232" y="677" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="1232" dy="0">디지털트윈 / 3D / KPI</tspan><tspan x="1232" dy="29.0">수신·제어 어댑터</tspan><tspan x="1232" dy="29.0">시계열·배치·메타 DB</tspan><tspan x="1232" dy="29.0">세부별 현장 실증</tspan></text>
+<path d="M380,233 L590,233" fill="none" stroke="#087e8b" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a1)"/>
+<rect x="390" y="190" width="144.0" height="59.199999999999996" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="397" y="208" font-size="18" fill="#087e8b" text-anchor="start" font-weight="400"><tspan x="397" dy="0">F04 기초 소재·</tspan><tspan x="397" dy="26.099999999999998">시뮬레이션 DB</tspan></text>
+<path d="M1020,220 L1220,220" fill="none" stroke="#7554a3" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a3)" marker-start="url(#a3)" stroke-dasharray="9 6"/>
+<rect x="1026" y="154" width="172.7" height="56.3" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="1033" y="171" font-size="17" fill="#7554a3" text-anchor="start" font-weight="400"><tspan x="1033" dy="0">F05 학습 데이터·</tspan><tspan x="1033" dy="24.65">예측 결과 / 모델 연계</tspan></text>
+<path d="M450,667 L640,667" fill="none" stroke="#087e8b" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a1)"/>
+<rect x="446" y="628" width="160.79999999999998" height="31.65" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="453" y="645" font-size="17" fill="#087e8b" text-anchor="start" font-weight="400"><tspan x="453" dy="0">F01 결과·센서·로그</tspan></text>
+<path d="M640,768 L450,768" fill="none" stroke="#b95b23" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a2)"/>
+<rect x="469" y="734" width="131.39999999999998" height="33.099999999999994" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="476" y="752" font-size="18" fill="#b95b23" text-anchor="start" font-weight="400"><tspan x="476" dy="0">F09 실행 명령</tspan></text>
+<path d="M770,605 L770,330" fill="none" stroke="#087e8b" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a1)"/>
+<rect x="535" y="433" width="169.2" height="59.199999999999996" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="542" y="451" font-size="18" fill="#087e8b" text-anchor="start" font-weight="400"><tspan x="542" dy="0">F02 REST API</tspan><tspan x="542" dy="26.099999999999998">공유 대상 데이터 저장</tspan></text>
+<path d="M1385,330 L1385,442 L960,442 L960,605" fill="none" stroke="#7554a3" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a3)" stroke-dasharray="9 6"/>
+<rect x="955" y="409" width="295.2" height="33.099999999999994" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="962" y="427" font-size="18" fill="#7554a3" text-anchor="start" font-weight="400"><tspan x="962" dy="0">F06 실험 조건·워크플로 → 실행 계층</tspan></text>
+<path d="M1020,666 L1210,666" fill="none" stroke="#087e8b" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a1)"/>
+<rect x="1022" y="628" width="137.0" height="31.65" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="1029" y="645" font-size="17" fill="#087e8b" text-anchor="start" font-weight="400"><tspan x="1029" dy="0">F03 상태·측정값</tspan></text>
+<path d="M1210,768 L1020,768" fill="none" stroke="#b95b23" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a2)"/>
+<rect x="1024" y="733" width="137.0" height="31.65" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="1031" y="750" font-size="17" fill="#b95b23" text-anchor="start" font-weight="400"><tspan x="1031" dy="0">F08 제어 이벤트</tspan></text>
+<path d="M1020,295 L1130,295 L1130,515 L1270,515 L1270,605" fill="none" stroke="#2563a6" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a0)" marker-start="url(#a0)"/>
+<rect x="1138" y="348" width="220.29999999999998" height="56.3" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="1145" y="365" font-size="17" fill="#2563a6" text-anchor="start" font-weight="400"><tspan x="1145" dy="0">F07 실험 조건 ⇄ 예측 결과</tspan><tspan x="1145" dy="24.65">디지털트윈 연동 API</tspan></text>
+<rect x="50" y="880" width="1500" height="105" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="50" y="895" width="5" height="75" rx="2" fill="#607186"/>
+<text x="72" y="916" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="72" dy="0">한국디스플레이연구조합 · 별도 접근/사업관리 흐름</tspan></text>
+<text x="72" y="952" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="72" dy="0">회원 로그인·등급·2차 인증 → 권한별 디지털트윈 접속  |  성과·진도 → 성과 DB·협의체 (그림 04)</tspan></text>
+<text x="54" y="1021" font-size="16" fill="#607186" text-anchor="start" font-weight="400"><tspan x="54" dy="0">근거: PDF 21–28, 34–41, 45–50, 62–67쪽. KETI의 전 기관 통합 검증은 화살표 혼잡을 줄이기 위해 상단 역할로 표시.</tspan></text>
+</svg>

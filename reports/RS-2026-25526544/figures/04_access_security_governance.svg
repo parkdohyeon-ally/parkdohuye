@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-label="04  사용자 접근·데이터 보안·사업관리의 분리">
+<defs><marker id="a0" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#2563a6"/></marker><marker id="a1" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#087e8b"/></marker><marker id="a2" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#b95b23"/></marker><marker id="a3" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#7554a3"/></marker><marker id="a4" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 Z" fill="#607186"/></marker></defs>
+<rect width="1600" height="100%" fill="#ffffff"/>
+<style>text {font-family:"Noto Sans CJK KR",sans-serif;} .node-title{font-weight:700;} </style>
+<text x="54" y="55" font-size="32" fill="#142d4e" text-anchor="start" font-weight="700"><tspan x="54" dy="0">04  사용자 접근·데이터 보안·사업관리의 분리</tspan></text>
+<text x="54" y="93" font-size="17" fill="#607186" text-anchor="start" font-weight="400"><tspan x="54" dy="0">일반데이터 = 총괄 공유 학습용으로 분류된 데이터 · 대외 무조건 공개를 뜻하지 않음</tspan></text>
+<rect x="50" y="140" width="300" height="115" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="50" y="155" width="5" height="85" rx="2" fill="#607186"/>
+<text x="72" y="176" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="72" dy="0">회원·연구자</tspan></text>
+<text x="72" y="212" font-size="18" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="72" dy="0">기업 회원 로그인</tspan></text>
+<rect x="410" y="140" width="350" height="115" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="410" y="155" width="5" height="85" rx="2" fill="#607186"/>
+<text x="432" y="176" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="432" dy="0">연구조합 접근 체계</tspan></text>
+<text x="432" y="212" font-size="18" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="432" dy="0">Operator / Affiliate / Insight</tspan></text>
+<rect x="820" y="140" width="325" height="115" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="820" y="155" width="5" height="85" rx="2" fill="#607186"/>
+<text x="842" y="176" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="842" dy="0">고위험 접근</tspan></text>
+<text x="842" y="212" font-size="18" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="842" dy="0">2차 인증·접근권한 확인</tspan></text>
+<rect x="1205" y="140" width="345" height="115" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="1205" y="155" width="5" height="85" rx="2" fill="#607186"/>
+<text x="1227" y="176" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="1227" dy="0">허용된 DT 기능</tspan></text>
+<text x="1227" y="212" font-size="18" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="1227" dy="0">영상·분석·실데이터 등</tspan></text>
+<path d="M350,197 L410,197" fill="none" stroke="#607186" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a4)"/>
+<path d="M760,197 L820,197" fill="none" stroke="#607186" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a4)"/>
+<path d="M1145,197 L1205,197" fill="none" stroke="#607186" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a4)"/>
+<text x="50" y="298" font-size="21" fill="#142d4e" text-anchor="start" font-weight="700"><tspan x="50" dy="0">접근 정책: 연구조합  |  DB/API 권한·접근로그: 인실리코  |  작동·기록 누락 점검: KETI</tspan></text>
+<rect x="50" y="335" width="690" height="455" rx="14" fill="#fff8f0" stroke="#d6ac81" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="78" y="375" font-size="26" fill="#b95b23" text-anchor="start" font-weight="700"><tspan x="78" dy="0">기업 현장 · 각 세부 로컬 보안모드</tspan></text>
+<rect x="80" y="408" width="630" height="125" rx="14" fill="#fffdf9" stroke="#b95b23" stroke-width="2"/>
+<rect x="80" y="423" width="5" height="95" rx="2" fill="#b95b23"/>
+<text x="102" y="444" font-size="23" fill="#b95b23" text-anchor="start" font-weight="700"><tspan x="102" dy="0">현장 원료·레시피·실험 결과</tspan></text>
+<text x="102" y="480" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="102" dy="0">일반/Private 분류 · Private는 자체 서버 실험</tspan><tspan x="102" dy="29.0">공유 허용 데이터만 외부 경로로 분기</tspan></text>
+<rect x="80" y="593" width="630" height="125" rx="14" fill="#fffdf9" stroke="#b95b23" stroke-width="2"/>
+<rect x="80" y="608" width="5" height="95" rx="2" fill="#b95b23"/>
+<text x="102" y="629" font-size="23" fill="#b95b23" text-anchor="start" font-weight="700"><tspan x="102" dy="0">로컬 실험·배포된 AI·ROS2·디지털트윈</tspan></text>
+<text x="102" y="665" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="102" dy="0">기업 보안모드 운영을 지원하는 구성으로 해석</tspan><tspan x="102" dy="29.0">세부별 설치 범위·모델 배포 방식은 상세 설계 필요</tspan></text>
+<path d="M395,533 L395,593" fill="none" stroke="#b95b23" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a2)" marker-start="url(#a2)"/>
+<rect x="845" y="335" width="705" height="455" rx="14" fill="#f0f8f8" stroke="#83b8b4" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="873" y="375" font-size="26" fill="#087e8b" text-anchor="start" font-weight="700"><tspan x="873" dy="0">공유 연계 경로 · 변환 후 총괄 전송</tspan></text>
+<rect x="875" y="408" width="645" height="125" rx="14" fill="#fbfefe" stroke="#087e8b" stroke-width="2"/>
+<rect x="875" y="423" width="5" height="95" rx="2" fill="#087e8b"/>
+<text x="897" y="444" font-size="23" fill="#087e8b" text-anchor="start" font-weight="700"><tspan x="897" dy="0">전송 전 공유 선별·소재 표현 변환</tspan></text>
+<text x="897" y="480" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="897" dy="0">SMILES·Descriptor → 암호화/Embedding 벡터</tspan><tspan x="897" dy="29.0">총괄 전송 이전에 수행 / 위치·방식은 상세 합의</tspan></text>
+<rect x="875" y="593" width="645" height="125" rx="14" fill="#fbfefe" stroke="#087e8b" stroke-width="2"/>
+<rect x="875" y="608" width="5" height="95" rx="2" fill="#087e8b"/>
+<text x="897" y="629" font-size="23" fill="#087e8b" text-anchor="start" font-weight="700"><tspan x="897" dy="0">중앙 통합 DB · 학습·예측·모델 갱신</tspan></text>
+<text x="897" y="665" font-size="19" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="897" dy="0">일반데이터 기반 학습 / 최적 레시피·AI SW 하향 제공</tspan><tspan x="897" dy="27.55">변환·벡터화 자체가 비복원성을 입증하는 것은 아님</tspan></text>
+<path d="M1197,533 L1197,593" fill="none" stroke="#087e8b" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a1)"/>
+<path d="M740,460 L845,460" fill="none" stroke="#087e8b" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a1)"/>
+<rect x="739" y="422" width="81.0" height="28.75" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="746" y="437" font-size="15" fill="#087e8b" text-anchor="start" font-weight="400"><tspan x="746" dy="0">공유 허용분</tspan></text>
+<path d="M1197,718 L1197,758 L395,758 L395,718" fill="none" stroke="#2563a6" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a0)" stroke-dasharray="9 6"/>
+<rect x="503" y="724" width="370.79999999999995" height="33.099999999999994" rx="3" fill="white" stroke="white" stroke-width="2"/>
+<text x="510" y="742" font-size="18" fill="#2563a6" text-anchor="start" font-weight="400"><tspan x="510" dy="0">레시피·AI SW 제공 (세부 배포 절차는 미확정)</tspan></text>
+<text x="50" y="847" font-size="23" fill="#142d4e" text-anchor="start" font-weight="700"><tspan x="50" dy="0">사업관리·성과확산 흐름  |  연구용 원천 DB와 성과관리 DB를 구분</tspan></text>
+<rect x="50" y="885" width="420" height="125" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="50" y="900" width="5" height="95" rx="2" fill="#607186"/>
+<text x="72" y="921" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="72" dy="0">총괄·세부 수행기관</tspan></text>
+<text x="72" y="957" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="72" dy="0">진도·특허·논문·고용·사업화 성과</tspan><tspan x="72" dy="29.0">개발 결과·기술 이슈·애로사항</tspan></text>
+<rect x="595" y="885" width="430" height="125" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="595" y="900" width="5" height="95" rx="2" fill="#607186"/>
+<text x="617" y="921" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="617" dy="0">한국디스플레이연구조합</tspan></text>
+<text x="617" y="957" font-size="20" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="617" dy="0">성과 DB / 진도점검 / 워크숍</tspan><tspan x="617" dy="29.0">수요-공급 협의체 / 공개범위 관리</tspan></text>
+<rect x="1150" y="885" width="400" height="125" rx="14" fill="#f6f8fa" stroke="#607186" stroke-width="2"/>
+<rect x="1150" y="900" width="5" height="95" rx="2" fill="#607186"/>
+<text x="1172" y="921" font-size="23" fill="#607186" text-anchor="start" font-weight="700"><tspan x="1172" dy="0">수요기업·회원사</tspan></text>
+<text x="1172" y="957" font-size="19" fill="#142d4e" text-anchor="start" font-weight="400"><tspan x="1172" dy="0">개발성과 활용 검토·의견 환류</tspan><tspan x="1172" dy="27.55">인증·활용 확인 / 승인된 성과 열람</tspan></text>
+<path d="M470,946 L595,946" fill="none" stroke="#607186" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a4)"/>
+<path d="M1025,946 L1150,946" fill="none" stroke="#607186" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#a4)" marker-start="url(#a4)"/>
+<text x="54" y="1081" font-size="16" fill="#607186" text-anchor="start" font-weight="400"><tspan x="54" dy="0">근거: PDF 11, 15, 17, 28–30, 42, 51, 63, 132, 140쪽. 포털 등급별 세부 허용표와 Private 반출 규격은 미확정.</tspan></text>
+</svg>
