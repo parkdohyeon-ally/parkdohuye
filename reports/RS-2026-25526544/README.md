@@ -2,6 +2,12 @@
 
 첨부 연구개발계획서 **RS-2026-25526544**를 바탕으로 작성한 13쪽 보고서와 그림·표입니다. 계획서의 명시 사항, 설명을 위한 설계 재구성, 확인이 필요한 내용을 구분했습니다.
 
+## 수요일 회의 준비자료
+
+[1쪽 협의표 PDF](meeting_preparation/discussion_sheet.pdf?raw=true) · [기록용 엑셀](meeting_preparation/meeting_workbook.xlsx?raw=true) · [준비·진행안](meeting_preparation/meeting_prep.md) · [회의자료 ZIP](meeting_preparation/meeting_preparation.zip?raw=true)
+
+계획서 근거와 회의 질문을 구분한 결정 전 양식입니다. [자료 안내](meeting_preparation/README.md)에서 확인할 수 있으며, 아래 기존 분석 ZIP과는 별도 패키지입니다.
+
 ## 한 장 요약
 
 **[A4 가로 1쪽 PDF](overview_1page_ko.pdf?raw=true)** · [고해상도 PNG](overview_1page_ko.png?raw=true) · [편집용 SVG](overview_1page_ko.svg?raw=true) · [단일 파일 HTML](overview_1page_ko.html?raw=true)
